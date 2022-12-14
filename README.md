@@ -1,6 +1,6 @@
 - @yupeishan
 - JAVA
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yupeishan&show_icons=true">
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yupeishan)
 
 
 <!---
